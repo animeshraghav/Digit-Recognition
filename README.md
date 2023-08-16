@@ -1,3 +1,3 @@
-# Digit-Recognition
-Through this project one can be able to recognize digitally the handwritten numerical digit through lens of their setup.
-It Consists of:
+#Handwritten Digit Recognition
+Through this project, one can digitally recognize both already handwritten and live writing of numerical digits through the lens of their setup.
+It consists of:
